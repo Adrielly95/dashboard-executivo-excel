@@ -26,9 +26,3 @@ Facilitar o acompanhamento executivo da obra através da análise visual de indi
 ## 📷 Preview do Dashboard
 
 ![Dashboard](Dashboard Excel - Dom Porcelanatos.png)
-
-Depois:
-1️⃣ clique em “Commit changes”
-2️⃣ volte para a página principal do repositório
-
-A imagem aparecerá diretamente no GitHub, deixando seu portfólio com aparência MUITO mais profissional.
