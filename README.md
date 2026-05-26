@@ -1,2 +1,34 @@
-# dashboard-executivo-excel
-Projeto de dashboard executivo em Excel voltado para acompanhamento de obras, contendo KPIs, análise financeira, evolução física, produtividade e visualização gerencial de dados.
+# Dashboard Executivo - Acompanhamento da Obra
+
+## 📊 Sobre o Projeto
+Dashboard desenvolvido em Excel para acompanhamento físico e financeiro de obras, com foco em indicadores gerenciais e visualização estratégica de dados.
+
+## 🛠 Ferramentas Utilizadas
+- Microsoft Excel
+- Tabela Dinâmica
+- KPIs
+- Segmentação de Dados
+- Fórmulas avançadas
+- Dashboard Executivo
+
+## 📌 Indicadores Apresentados
+- Valor contratado
+- Valor medido
+- Saldo a medir
+- Evolução física e financeira
+- Distribuição financeira
+- Produtividade
+- Status dos pavimentos
+
+## 🎯 Objetivo
+Facilitar o acompanhamento executivo da obra através da análise visual de indicadores estratégicos.
+
+## 📷 Preview do Dashboard
+
+![Dashboard](Dashboard Excel - Dom Porcelanatos.png)
+
+Depois:
+1️⃣ clique em “Commit changes”
+2️⃣ volte para a página principal do repositório
+
+A imagem aparecerá diretamente no GitHub, deixando seu portfólio com aparência MUITO mais profissional.
